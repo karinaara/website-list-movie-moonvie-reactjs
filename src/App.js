@@ -129,7 +129,7 @@ function App() {
         </ul>
       </div>
       <div className = "OverviewHeader" >
-          <h5>Overview</h5>
+          <h5>Synopsis</h5>
           </div>
       <div className="OverviewContent">
           <div className = "Overview">

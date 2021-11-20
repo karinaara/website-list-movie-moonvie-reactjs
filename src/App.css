@@ -1,5 +1,7 @@
 .App {
   font-family: 'Montserrat', sans-serif;
+  background-color: #FFD07F;
+  min-height: 700px;
 }
 
 .App .Cards{
