@@ -1,3 +1,8 @@
+## Identitas
+Nama: Karina Widya Ramadhani
+ID GDSC: 360
+Tugas: Frontend 2 GDSC
+
 ## Halaman awal website
 ![image](https://user-images.githubusercontent.com/80022868/142715265-31eba879-3e0e-4f05-85db-e5d919d96c18.png)
 ![image](https://user-images.githubusercontent.com/80022868/142715303-d2692391-5725-4d42-8436-e5be4410b2f6.png)
