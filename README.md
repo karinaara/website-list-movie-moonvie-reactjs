@@ -5,5 +5,5 @@
 ## Halaman wishlist
 ![image](https://user-images.githubusercontent.com/80022868/142715273-a50d3091-023c-4c53-b4c7-1ab664fd1981.png)
 
-Fitur:
+## Fitur:
 * Dapat menambahkan wishlist movie dan dapat menghapus wishlist dari halaman wishlist
